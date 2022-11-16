@@ -33,7 +33,7 @@ export const Footer = () => {
                 <a href='#' className=' w-20'>Press</a>
                 <a href='#' className=' w-20'>Blog</a>
             </article>
-            <article className='flex flex-col gap-4 text-sm lg:w-1/6 lg:items-center'>
+            <article className='flex flex-col gap-4 text-sm lg:w-1/6 lg:items-center '>
                 <a href='#' className=' w-20'>Contact Us</a>
                 <a href='#' className=' w-20'>Terms</a>
                 <a href='#' className=' w-20'>Privacy</a>
