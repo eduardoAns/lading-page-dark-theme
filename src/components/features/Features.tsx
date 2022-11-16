@@ -2,8 +2,8 @@ import React from 'react'
 
 export const Features = () => {
   return (
-    <section className='w-full flex justify-center bg-primary-200'>
-        <div className='w-5/6 grid grid-cols-1 md:grid-cols-2 h-max gap-16 font-raleway '>
+    <section className='w-full flex justify-center items-center bg-primary-200 lg:h-screen'>
+        <div className='w-5/6 grid grid-cols-1 h-max gap-16 font-raleway md:grid-cols-2 lg:px-32'>
             <article className='flex items-center flex-col text-center  '>
                 <img className='inline h-16 mb-6' src="images/icon-access-anywhere.svg" alt="Logo" />
                 <h2 className=' font-bold mb-2 text-lg' >Access your files, anywhere</h2>
